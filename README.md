@@ -27,3 +27,6 @@ This project demonstrates an end-to-end, high-performance document Q&A chatbot u
 
 ## Contributing
 Contributions are welcome! Please create an issue or a pull request for proposed changes.
+
+## Screenshot
+![Screenshot (65)](https://github.com/user-attachments/assets/654945a5-f033-4816-97d5-4799dc96b7cf)
