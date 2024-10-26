@@ -6,6 +6,7 @@ This project demonstrates an end-to-end, high-performance document Q&A chatbot u
 ## Key Features
 - **Document Ingestion**: Reads and parses PDF files directly using **PyPDFLoader**, allowing seamless document handling for QA purposes.
 - **Embeddings**: Uses **Ollama embeddings** to enhance context awareness, ensuring more accurate answers for user queries.
+- **On-Demand Embeddings**: Includes a button-driven approach to process document embeddings, allowing users to control when document embedding occurs.
 - **Frontend Interface**: A user-friendly interface built with **Streamlit** enables easy interaction, displaying questions, and real-time responses.
 - **Inferencing with Groq**: The Groq inferencing engine boosts model performance, reducing latency for a smooth, responsive user experience.
 
